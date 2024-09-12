@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quick-sign-app/static/css/main.f855e6bc.css",
+    "main.js": "/Quick-sign-app/static/js/main.25fd4532.js",
+    "static/js/453.ed3810f9.chunk.js": "/Quick-sign-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Quick-sign-app/index.html",
+    "main.f855e6bc.css.map": "/Quick-sign-app/static/css/main.f855e6bc.css.map",
+    "main.25fd4532.js.map": "/Quick-sign-app/static/js/main.25fd4532.js.map",
+    "453.ed3810f9.chunk.js.map": "/Quick-sign-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.25fd4532.js"
+  ]
+}
